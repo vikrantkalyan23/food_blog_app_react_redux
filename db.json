@@ -1,0 +1,19 @@
+{
+    "foodItems": [
+      {
+        "id": 1,
+        "name": "Spaghetti",
+        "image": "spaghetti.jpg",
+        "recipe": "Boil pasta, prepare sauce, mix together.",
+        "details": "Spaghetti is a classic Italian dish loved by all."
+      },
+      {
+        "id": 2,
+        "name": "Tacos",
+        "image": "tacos.jpg",
+        "recipe": "Prepare filling, stuff in tortilla, serve.",
+        "details": "Tacos are a traditional Mexican food."
+      }
+    ]
+  }
+  
